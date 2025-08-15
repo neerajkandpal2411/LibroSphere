@@ -111,27 +111,7 @@ The application will be available at `http://localhost:8080`
 - **Dark/Light Mode**: Complete theme switching support
 - **Responsive Design**: Mobile-first responsive design
 
-## Project Structure
-
-```
-src/
-├── components/         # Reusable UI components
-│   ├── auth/          # Authentication components
-│   ├── dashboard/     # Dashboard components
-│   ├── files/         # File upload components
-│   ├── fines/         # Fine management components
-│   ├── home/          # Landing page components
-│   ├── layout/        # Layout components
-│   ├── qr/            # QR code components
-│   ├── reports/       # Report components
-│   ├── reservations/  # Reservation components
-│   ├── theme/         # Theme components
-│   └── ui/            # Base UI components (shadcn/ui)
-├── hooks/             # Custom React hooks
-├── integrations/      # External service integrations
-├── lib/               # Utility functions
-└── pages/             # Page components
-```
+---
 
 ## Build for Production
 
@@ -160,3 +140,4 @@ bun run build
 - Firefox 88+
 - Safari 14+
 - Edge 90+
+

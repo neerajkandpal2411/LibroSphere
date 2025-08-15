@@ -141,3 +141,10 @@ bun run build
 - Safari 14+
 - Edge 90+
 
+---
+
+## 📞 Author <br>
+Neeraj Kandpal <br>
+Linkedin : https://www.linkedin.com/in/neeraj-kandpal/
+
+
